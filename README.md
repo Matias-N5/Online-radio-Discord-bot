@@ -1,4 +1,4 @@
-
+# This bot was made with the use of Chat-GPT
 # Discord Radio Bot
 
 Discord bot that allows you to play an online radio in voice channels using the slash commands `/play` and `/stop`.
@@ -47,14 +47,3 @@ Discord bot that allows you to play an online radio in voice channels using the 
 - `/play`: The bot will join the voice channel you are in and play the configured online radio.
 - `/stop`: Stops the playback and disconnects the bot from the voice channel.
 
----
-
-## Important notes
-
-- Make sure the bot has permissions to connect and speak in voice channels.
-- Do not share your Discord token publicly.
-- To keep the bot online 24/7, consider hosting it on a VPS or a hosting platform that supports continuous execution.
-
----
-
-If you have any questions or need help with deployment, feel free to ask!
