@@ -1,4 +1,5 @@
 # This bot was made with the use of Chat-GPT
+Feel free to do whatever you want with this
 # Discord Radio Bot
 
 Discord bot that allows you to play an online radio in voice channels using the slash commands `/play` and `/stop`.
